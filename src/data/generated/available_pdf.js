@@ -1,0 +1,1 @@
+define({availablePdf: ["1905.09916v5","2024.naacl-long.366","2405.04323v1","2405.19694v1","2501.14305v1","2501.14499v1","2503.02863v1","3636515","label-with-confidence-effective-confidence-calibration-and-ensembles-in-llm-powered-classification"]});

@@ -1,0 +1,1 @@
+define({ availableImg: ["Beck2016Visual","BERJ2024LLMComparison","Geng2024Survey","Gobrecht2024AIGrading","Hovsepian2024Calibration","Malik2019GenerativeGrading","Messer2023Review","Policar2025Bioinformatics","Xie2024Grade","Yeung2025ZeroShot","Zhou2025SemanticSteering"]});
