@@ -58,17 +58,8 @@ Beck, Fabian; Koch, Sebastian; Weiskopf, Daniel:
 Please contact us if you know of other SurVis-based projects.
 
 ---
-
-## Contact
-
 **Fabian Beck**  
 VISUS, University of Stuttgart  
 ✉️ fabian.beck@visus.uni-stuttgart.de  
 🔗 http://research.fbeck.com
 
-
-享受SurVis，并发送反馈，如果你喜欢。
-
-http://research.fbeck.com
-
-参考网页：http://dynamicgraphs.fbeck.com/
